@@ -1,0 +1,13 @@
+{
+    "name": "zwarthoorn/testadmin",
+    "description": "n",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zwarthoorn",
+            "email": "walterwiesnekkerw@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": { "php": ">=5.3.0"}
+}
